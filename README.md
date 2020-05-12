@@ -1,1 +1,1 @@
-# sammyjensen.gitbu.io
+# sammyjensen.github.io
